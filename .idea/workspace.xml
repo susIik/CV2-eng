@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9907a012-547c-4c60-8fc4-f7ee5cb2e494" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GtmEnhanced">
+    <option name="gtmDisabled" value="true" />
+  </component>
+  <component name="JupyterTrust" id="075c595c-1ce4-4074-9883-05bcb812eb24" />
+  <component name="ProjectId" id="24uiENQcK9JM8xbkQxxFh1Y5K8R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MATLAB_INTERPRETER" value="E:\Programs\MATLAB\R2020b\bin\matlab.exe" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <envs />
+        <main-file>$PROJECT_DIR$/src/cv_eng.tex</main-file>
+        <output-path>$PROJECT_DIR$/out</output-path>
+        <auxil-path>{projectDir}/auxil</auxil-path>
+        <compile-twice>true</compile-twice>
+        <output-format>PDF</output-format>
+        <latex-distribution>TEXLIVE</latex-distribution>
+        <has-been-run>false</has-been-run>
+        <bib-run-config>[]</bib-run-config>
+        <makeindex-run-config>[]</makeindex-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="cv" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify>
+        <compiler>XELATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <envs />
+        <main-file>$PROJECT_DIR$/src/cv_eng.tex</main-file>
+        <output-path>$PROJECT_DIR$/out</output-path>
+        <auxil-path>{projectDir}/auxil</auxil-path>
+        <compile-twice>true</compile-twice>
+        <output-format>PDF</output-format>
+        <latex-distribution>TEXLIVE</latex-distribution>
+        <has-been-run>true</has-been-run>
+        <bib-run-config>[]</bib-run-config>
+        <makeindex-run-config>[]</makeindex-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MatlabApplication">
+      <option name="FILE_PATH" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="PARAMETERS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9907a012-547c-4c60-8fc4-f7ee5cb2e494" name="Default Changelist" comment="" />
+      <created>1644486774280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644486774280</updated>
+      <workItem from="1644486777313" duration="4525000" />
+      <workItem from="1644658460224" duration="19000" />
+      <workItem from="1644689540522" duration="2523000" />
+      <workItem from="1644692200733" duration="1425000" />
+      <workItem from="1644754379712" duration="1141000" />
+      <workItem from="1644772181218" duration="1077000" />
+      <workItem from="1644780062970" duration="202000" />
+      <workItem from="1644833190109" duration="31000" />
+      <workItem from="1645881223294" duration="2847000" />
+      <workItem from="1645971024863" duration="249000" />
+      <workItem from="1645990924273" duration="1352000" />
+      <workItem from="1646047724987" duration="2178000" />
+      <workItem from="1646248583633" duration="499000" />
+      <workItem from="1646300010867" duration="51000" />
+      <workItem from="1648814494934" duration="63000" />
+      <workItem from="1648902802844" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645882741951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645882741951" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1644486955196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644486955196" />
+    <state width="1876" height="275" key="GridCell.Tab.0.bottom" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.0.center" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.0.left" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.0.right" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.1.bottom" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.1.center" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.1.left" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+    <state width="1876" height="275" key="GridCell.Tab.1.right" timestamp="1648814558234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="275" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648814558234" />
+  </component>
+</project>

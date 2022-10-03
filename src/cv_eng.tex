@@ -1,0 +1,279 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+% \lastupdated % Print the Last Updated text at the top right
+
+\namesection{Evo}{Annus}{ % Your name
+% \urlstyle{same}\url{https://www.linkedin.com/in/tavo-annus-4a5631171/} \\ % Your website, LinkedIn profile or other web address
+16.10.2001 | Viimsi, Harjumaa \\
+\href{mailto:evo.annus@gmail.com}{evo.annus@gmail.com} | +372 5692 6727 % Your contact information
+}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education}
+
+\subsection{TalTech}
+
+\descript{BSc in Product development and Robotics}
+\location{2020 - 2023 | II year}
+GPA: 5.0 \\
+Done 120 ECTS
+
+
+\sectionspace % Some whitespace after the section
+
+\subsection{Tallinn Secondary \\School of Science}
+
+\location{Natural Sciences, Programming}
+\location{2017 - 2020}
+Silver medal
+
+\sectionspace % Some whitespace after the section
+
+\subsection{Viimsi Secondary School}
+\location{2008 - 2017}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+\section{Links}
+
+\href{https://susiik.github.io/}{\bf Portfolio} \\
+\href{https://github.com/susIik}{\bf Github} \\
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Skills}
+
+\subsection{Languages}
+
+Estonian - Native Speaker \\
+English - C1 \\
+Russian - Basic communication \\
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\subsection{Drivers licenses}
+
+B - category \\
+
+\sectionspace % Some whitespace after the section
+
+\subsection{Engineering Skills}
+
+\sectionspace
+
+\descript{Mechanics}
+\location{CAD}
+Solidworks \textbullet{} Siemens NX \\
+\location{CAM}
+Siemens NX \\
+\location{Welding}
+MIG/MAG \textbullet{} Shielded metal arc welding \\
+
+\sectionspace
+
+\descript{Electronics}
+\location{Soldering}
+\location{Arduino}
+
+\sectionspace
+
+\descript{Programming}
+\location{Python}
+\location{C}
+\location{Matlab}
+
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+\section{Projects}
+
+\runsubsection{3D bike model}
+\descript{| School Project}
+
+\location{2020}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+  \item As a group project we designed and modeled bicycle using \textbf{Solidworks CAD} software.
+  \item I personally modeled derailleur, break, saddle and chain. I also modeled some less significant details.
+  \item Our bicycle was the second-best project that year.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{Electrical Skateboard}
+\descript{| Personal Project}
+
+\location{2021 - 2022}
+\begin{tightitemize}
+  \item I began working on this project because I wanted to make a skateboard that doesn't require a remote to control its speed.
+  \item Speed controlling is made possible by using \textbf{strain gauge} sensors, that are mounted on the trucks.
+  \item \textbf{Arduino} is used to process the data coming from sensors and to output the required PWM signal for motor speed controlling.
+  \item During this project I learned \textbf{soldering}, \textbf{motor speed controlling}, using \textbf{strain gauges} and \textbf{Arduino} programming.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{Autonomous boat}
+\descript{| Robotics Club Project}
+
+\location{2022}
+\begin{tightitemize}
+  \item As a group we designed and built a boat, that has to complete a lap on the track as fast as possible.
+  \item Boat hull is modeled in \textbf{Solidworks} and \textbf{3D printed}.
+  \item Electronics is controlled by \textbf{STM32 nucleo f303k8}, which is programmed in \textbf{C language}.
+  \item Controller gets the data from \textbf{IR sensors}, that measure the distance from an object. An optimal driving path can be calculated using this data.
+\end{tightitemize}
+
+% \begin{tightitemize}
+%   \item \textbf{\href{https://github.com/kilpkonn/neowatch}{neowatch}} - Creator of a Rust alternative to \textit{watch} command with addons.
+%   \item \textbf{\href{https://github.com/DEVELOPEST}{gtm}} - One of the creators of an open source time tracking app \textit(similar to wakatime).
+%   \item \textbf{\href{https://github.com/kilpkonn/SportsApp}{SportsApp}} - Creator of an open source Android app for tracking outdoor trainings.
+%   \item \textbf{\href{https://github.com/kilpkonn/LonePlayer}{LonePlayer}} - One of two creators of 2D platformer game.
+%   \item \textbf{\href{https://github.com/kilpkonn/GomokuGUI}{GomokuGUI}} - Creator of an open source Gomoku game made for AI \textit{(TalTech uses it for Java course assingment)}.
+%   \item \textbf{\href{https://veloren.net/}{veloren}} - Contributor, improved camera clipping, misc other minor improvements.
+% \end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Research
+%------------------------------------------------
+
+% \section{Research}
+
+% \runsubsection{Cornell Robot Learning Lab}
+% \descript{| Head Undergrad Research}
+%
+% \location{Jan 2014 – Present | Ithaca, NY}
+% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which learns from large scale user preference feedback to plan robot trajectories in human environments. Publication submitted.
+%
+% \sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+% \runsubsection{Cornell Phonetics Lab}
+% \descript{| Head Undergraduate Researcher}
+%
+% \location{Mar 2012 – May 2013 | Ithaca, NY}
+% Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
+%
+% \sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+%\section{Awards}
+%
+%\begin{tabular}{rll}
+%2021	 & 1\textsuperscript{st}/20 & Robocode - Free for all \\
+%2020	 & 3\textsuperscript{rd}/15 & Robocode - Main tournament \\
+%2020     & 3\textsuperscript{rd}/30 & NCPC Qualification (Estonia) \\
+%2019     & 1\textsuperscript{st}/25 & Robocode - Main tournament \\
+%2018 & 8\textsuperscript{th} & Physics Olympiad Natianal contest \\
+%2016 & 1\textsuperscript{st} & Physics Open (Natianal contest) \\
+%\end{tabular}
+
+%\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Hobbies
+%------------------------------------------------
+
+\section{Hobbies}
+
+Sailing - Competing for National Team \\
+Investing, Reading\\
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
