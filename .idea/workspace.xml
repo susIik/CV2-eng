@@ -19,24 +19,27 @@
     <option name="gtmDisabled" value="true" />
   </component>
   <component name="JupyterTrust" id="075c595c-1ce4-4074-9883-05bcb812eb24" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24uiENQcK9JM8xbkQxxFh1Y5K8R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="MATLAB_INTERPRETER" value="E:\Programs\MATLAB\R2020b\bin\matlab.exe" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
       <texify>
         <compiler>PDFLATEX</compiler>
         <compiler-path />
         <sumatra-path />
+        <pdf-viewer>NONE</pdf-viewer>
         <viewer-command />
         <compiler-arguments />
         <envs />
@@ -57,6 +60,7 @@
         <compiler>XELATEX</compiler>
         <compiler-path />
         <sumatra-path />
+        <pdf-viewer>BUILT-IN-PDF-VIEWER</pdf-viewer>
         <viewer-command />
         <compiler-arguments />
         <envs />
@@ -70,15 +74,6 @@
         <bib-run-config>[]</bib-run-config>
         <makeindex-run-config>[]</makeindex-run-config>
       </texify>
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="MatlabApplication">
-      <option name="FILE_PATH" value="" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="PARAMETERS" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
       <method v="2" />
     </configuration>
   </component>
@@ -109,7 +104,9 @@
       <workItem from="1664817512335" duration="2229000" />
       <workItem from="1666076221411" duration="691000" />
       <workItem from="1676291528249" duration="185000" />
-      <workItem from="1679830445862" duration="3768000" />
+      <workItem from="1679830445862" duration="3824000" />
+      <workItem from="1680029621561" duration="194000" />
+      <workItem from="1703669506822" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="added experience">
       <created>1664818574141</created>
@@ -132,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666076314674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed spelling">
+      <created>1679851953017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679851953017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,43 +147,5 @@
     <MESSAGE value="changed experience" />
     <MESSAGE value="changed spelling" />
     <option name="LAST_COMMIT_MESSAGE" value="changed spelling" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1676291709988">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1676291709988" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.1.bottom" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.1.center" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.1.left" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
-    <state width="1876" height="277" key="GridCell.Tab.1.right" timestamp="1679833602147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1679833602147" />
   </component>
 </project>
