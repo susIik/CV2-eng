@@ -32,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;F:/Documents/Solidworks_files/maze/remix-of-Russian-Doll-Maze-Puzzle-Box&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -126,7 +127,10 @@
       <workItem from="1713117578464" duration="22000" />
       <workItem from="1714070983302" duration="105000" />
       <workItem from="1729324349868" duration="2013000" />
-      <workItem from="1729503069540" duration="1290000" />
+      <workItem from="1729503069540" duration="1388000" />
+      <workItem from="1740835525221" duration="157000" />
+      <workItem from="1741523118660" duration="2538000" />
+      <workItem from="1742060756790" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="added experience">
       <created>1664818574141</created>
@@ -205,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729325171375</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="changed spelling">
+      <created>1729505992772</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729505992772</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,8 +225,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added experience" />
     <MESSAGE value="changed experience" />
-    <MESSAGE value="changed spelling" />
     <MESSAGE value="updated education and jobs" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated education and jobs" />
+    <MESSAGE value="changed spelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed spelling" />
   </component>
 </project>
